@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Effortless Submission Process",
+        "description": "Streamline the assignment submission process with an intuitive and user-friendly interface. Students can easily submit their work, reducing friction and enhancing the overall user experience."
+    },
+    {
+        "id": 2,
+        "title": "Real-time Feedback and Grading",
+        "description": "Receive instant feedback on submitted assignments, including detailed comments and grades. This feature empowers students to understand their performance quickly and make improvements."
+    },
+    {
+        "id": 3,
+        "title": "Multi-File Upload Capability",
+        "description": "Enable students to upload multiple files for a single assignment submission. This feature supports various file formats, providing flexibility for students to submit diverse types of content."
+    },
+    {
+        "id": 4,
+        "title": "Deadline Management and Reminders",
+        "description": "Keep students on track with automated reminders for upcoming assignment deadlines. The platform provides countdown timers and notifications, helping students manage their time effectively."
+    },
+    {
+        "id": 5,
+        "title": "Secure Plagiarism Detection",
+        "description": "Ensure academic integrity with integrated plagiarism detection tools. The system checks submitted assignments for plagiarism, promoting fair and honest academic practices."
+    },
+    {
+        "id": 6,
+        "title": "Version Control and Submission History",
+        "description": "Facilitate version control with the ability for students to submit multiple versions of an assignment. The submission history feature allows students to track their progress and revert to previous submissions if needed."
+    }
+]
